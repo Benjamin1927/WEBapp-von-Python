@@ -6,5 +6,9 @@ gggggggggggttttttt
 
 ich bin in Branch dev
 
+<<<<<<< HEAD
 
 1223u37628364762364276
+=======
+adfhsljdgljhjkf;shjdfhwbvkdbv jdhfhewf djfkehjsjfh
+>>>>>>> feature1
